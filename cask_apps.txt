@@ -1,0 +1,10 @@
+google-drive
+google-chrome
+atom
+vlc
+skype
+iterm2
+firefox
+flux
+utorrent
+mou
