@@ -26,7 +26,8 @@ defaults write com.apple.systemuiserver menuExtras -array "/System/Library/CoreS
 # Disable opening and closing window animations
 # defaults write NSGlobalDomain NSAutomaticWindowAnimationsEnabled -bool false
 
-sudo chmod 600 /System/Library/CoreServices/Search.bundle/Contents/MacOS/Search
+# disabling spotlight icon disables spotlight functionality in yosemite
+#sudo chmod 600 /System/Library/CoreServices/Search.bundle/Contents/MacOS/Search
  
 
 # Disabling OS X Gate Keeper"
