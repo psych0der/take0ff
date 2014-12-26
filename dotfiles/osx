@@ -552,3 +552,6 @@ sudo ln -s "/System/Library/CoreServices/Applications/Wireless Diagnostics.app" 
 sudo ln -s "/System/Library/CoreServices/Applications/Feedback Assistant.app" "/Applications/Utilities/Feedback Assistant.app"
 sudo ln -s "/System/Library/CoreServices/Applications/RAID Utility.app" "/Applications/Utilities/RAID Utility.app"
 sudo ln -s "/System/Library/CoreServices/Applications/System Image Utility.app" "/Applications/Utilities/System Image Utility.app"
+
+# installing live reloadx
+npm install -g livereloadx
