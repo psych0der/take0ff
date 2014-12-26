@@ -199,3 +199,6 @@ alias arestart="please apachectl restart"
 # mysql 
 alias sql="mysql.server start"
 alias stopsql="mysql.server stop"
+
+# alias for livereloadx
+alias watch="livereloadx"
