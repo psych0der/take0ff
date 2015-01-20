@@ -95,3 +95,6 @@ sudo mv /opt/homebrew-cask/Caskroom/google-chrome/latest/Google\ Chrome.app /App
 
 # install pip dependencies
 pip install -r pip_backup.txt
+
+# install git-flow
+brew install git-flow
