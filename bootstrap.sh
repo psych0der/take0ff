@@ -87,6 +87,8 @@ else
 
 fi
 
+# installing bower
+npm install -g bower
 
 # moving chrome to applications
 sudo mv /opt/homebrew-cask/Caskroom/google-chrome/latest/Google\ Chrome.app /Applications/
