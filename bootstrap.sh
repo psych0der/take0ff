@@ -98,3 +98,16 @@ pip install -r pip_backup.txt
 
 # install git-flow
 brew install git-flow
+
+# install vim config environmet from amix
+git clone git://github.com/amix/vimrc.git ~/.vim_runtime
+sh ~/.vim_runtime/install_awesome_vimrc.sh
+
+mkdir ~/.vim
+mkdir ~/.vim/colors
+
+# move vim config file
+cp ./vim/my_configs.vim ~/.vim_runtime/
+
+# move colors
+cp -r ./vim/colors/* ~/.vim/colors/
