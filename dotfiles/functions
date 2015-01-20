@@ -400,5 +400,9 @@ function push() {
     git push origin $branch_name;
 }
 
+function pull() {
+    branch_name=`git symbolic-ref --short -q HEAD`;
+    git pull origin $branch_name;
+}
 
 
