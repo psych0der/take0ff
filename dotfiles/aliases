@@ -35,6 +35,7 @@ alias gb="git branch"
 alias check="git checkout"
 alias gadd="git add ."
 alias gcom="git commit"
+alias gd="git diff"
 alias opull="git pull origin master" 
 
 # programs
