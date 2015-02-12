@@ -37,6 +37,7 @@ alias gadd="git add ."
 alias gcom="git commit"
 alias gd="git diff"
 alias opull="git pull origin master" 
+alias merge="git merge"
 
 # programs
 alias slt='open -a "Sublime Text 2"'
