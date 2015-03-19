@@ -404,5 +404,8 @@ function pull() {
     branch_name=`git symbolic-ref --short -q HEAD`;
     git pull origin $branch_name;
 }
-
+function upull() {
+    branch_name=`git symbolic-ref --short -q HEAD`;
+    git pull upstream  $branch_name;
+}
 
