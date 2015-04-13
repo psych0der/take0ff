@@ -90,6 +90,9 @@ fi
 # installing bower
 npm install -g bower
 
+# install node inspector
+npm install -g node-inspector
+
 # moving chrome to applications
 sudo mv /opt/homebrew-cask/Caskroom/google-chrome/latest/Google\ Chrome.app /Applications/
 
