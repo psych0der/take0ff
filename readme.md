@@ -3,7 +3,7 @@ Takeoff is command line utility for setting up mac for development. It consists 
 
 Usage : enter this in your shell
 
-`git clone www.github.com/psych0der/take0ff.git && cd take0ff && bootstrap.sh`
+`git clone www.github.com/psych0der/take0ff.git && cd take0ff && sudo bash bootstrap.sh`
 
 This is still in alpha phase. Please feel free to point out glitches.
 
