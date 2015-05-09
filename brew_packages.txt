@@ -40,3 +40,4 @@ unixodbc
 unrar
 wget
 zlib
+ack
