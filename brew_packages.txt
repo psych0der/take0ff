@@ -41,3 +41,4 @@ unrar
 wget
 zlib
 ack
+the_silver_searcher
